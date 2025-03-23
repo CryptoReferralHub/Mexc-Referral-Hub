@@ -1,5 +1,5 @@
 <h1>How to Add Referral Code in MEXC: Maximize Your Benefits</h1>
-<p>MEXC is a popular cryptocurrency exchange known for its extensive range of digital assets and advanced trading features. Using a referral code when creating a new account can unlock various benefits. In this article, we'll guide you through the process of adding a referral code on MEXC and highlight the advantages of using the "mexc-thehub" code.</p>
+<p>MEXC is a popular cryptocurrency exchange known for its extensive range of digital assets and advanced trading features. Using a referral code when creating a new account can unlock various benefits. In this article, we'll guide you through the process of adding a referral code on MEXC and highlight the advantages of using the <strong>"mexc-thehub"</strong> code.</p>
 <h2>Why Use a Referral Code on MEXC?</h2>
 <p>Referral codes offer numerous advantages to both new and existing users. Here are some compelling reasons to use a referral code:</p>
 <ul>
@@ -33,4 +33,4 @@
     <li><strong>Learn About Trading:</strong> Educate yourself on cryptocurrency trading and develop effective strategies.</li>
     <li><strong>Join the Community:</strong> Engage with other users by joining the MEXC community.</li>
 </ul>
-<p>Using a referral code on MEXC is an excellent way to maximize your benefits when starting your cryptocurrency trading journey. By using the <strong>mexc-thehub</strong> code, you can enjoy reduced trading fees and exclusive bonuses. Remember to prioritize security and trade wisely.</p>
+<p>Using a referral code on MEXC is an excellent way to maximize your benefits when starting your cryptocurrency trading journey. By using the <strong>"mexc-thehub"</strong> code, you can enjoy reduced trading fees and exclusive bonuses. Remember to prioritize security and trade wisely.</p>
