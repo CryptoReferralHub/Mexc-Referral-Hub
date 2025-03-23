@@ -34,3 +34,8 @@
     <li><strong>Join the Community:</strong> Engage with other users by joining the MEXC community.</li>
 </ul>
 <p>Using a referral code on MEXC is an excellent way to maximize your benefits when starting your cryptocurrency trading journey. By using the <strong>"mexc-thehub"</strong> code, you can enjoy reduced trading fees and exclusive bonuses. Remember to prioritize security and trade wisely.</p>
+<a href="https://github.com/CryptoReferralHub/Mexc-Referral-Hub" class="signup-link" target="_blank">
+        Learn more about <strong>MEXC Referral Code - MEXC Referral Hub</strong>
+        <i class="fas fa-user-plus"></i>
+    </a>
+<p>For the latest updates, visit the official <strong>MEXC website</strong> or follow their social media channels. 🚀</p>
