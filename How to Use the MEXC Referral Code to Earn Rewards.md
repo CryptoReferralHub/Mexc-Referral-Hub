@@ -2,11 +2,11 @@
 <h2>Introduction</h2>
 <p>MEXC is a leading cryptocurrency exchange known for its competitive trading fees, diverse asset offerings, and rewarding affiliate program. If you're looking for a way to maximize your earnings on MEXC, using a <strong>MEXC referral code</strong> is the best way to get started. Whether you're a new user signing up in 2025 or an experienced trader, the <strong>MEXC signup bonus, MEXC referral bonus, and MEXC trading rewards</strong> can provide significant savings and extra benefits.</p>
 
-<h2>MEXC Referral Code - MXUSDT</h2>
+<h2>MEXC Referral Code - mexc-thehub</h2>
 <table>
     <tr>
         <th>MEXC Referral Code</th>
-        <th>MXUSDT</th>
+        <th>mexc-thehub</th>
     </tr>
     <tr>
         <td>Bonus Type</td>
@@ -34,11 +34,11 @@
 <p>MEXC offers a <strong>referral and affiliate program</strong> where new users can sign up with a <strong>MEXC referral code</strong> to receive exclusive bonuses. Users can also share their own <strong>MEXC promo code</strong> to earn commissions and bonuses from referrals.</p>
 
 <h2>Step-by-Step Guide on How to Use the MEXC Referral Code</h2>
-<h3>1. Sign Up on MEXC with the Referral Code MXUSDT</h3>
+<h3>1. Sign Up on MEXC with the Referral Code mexc-thehub</h3>
 <ul>
     <li>Visit the <strong>MEXC official website</strong> or download the MEXC app.</li>
     <li>Click <strong>"Sign Up"</strong> and enter your email or phone number.</li>
-    <li>In the referral code section, enter <strong>MXUSDT</strong> to activate the <strong>MEXC signup bonus</strong>.</li>
+    <li>In the referral code section, enter <strong>mexc-thehub</strong> to activate the <strong>MEXC signup bonus</strong>.</li>
 </ul>
 
 <h3>2. Complete KYC Verification</h3>
@@ -77,7 +77,7 @@
 
 <h2>Frequently Asked Questions</h2>
 <h3>1. Can I use the referral code after signing up?</h3>
-<p>No, the <strong>MEXC referral code MXUSDT</strong> must be entered during the signup process.</p>
+<p>No, the <strong>MEXC referral code mexc-thehub</strong> must be entered during the signup process.</p>
 
 <h3>2. How long does it take to receive my MEXC referral bonus?</h3>
 <p>Referral bonuses are credited within a few hours to a few days, depending on trading activity.</p>
@@ -86,9 +86,9 @@
 <p>Some bonuses may have a trading volume requirement before withdrawal. Check MEXC’s terms for details.</p>
 
 <h2>Conclusion</h2>
-<p>Using the <strong>MEXC referral code - MXUSDT</strong> in 2025 is the best way to earn bonuses, enjoy trading discounts, and maximize your crypto earnings. Whether you're a new user or looking to participate in the <strong>MEXC affiliate program</strong>, this guide provides everything you need to get started. Sign up today and start earning rewards with MEXC!</p>
+<p>Using the <strong>MEXC referral code - mexc-thehub</strong> in 2025 is the best way to earn bonuses, enjoy trading discounts, and maximize your crypto earnings. Whether you're a new user or looking to participate in the <strong>MEXC affiliate program</strong>, this guide provides everything you need to get started. Sign up today and start earning rewards with MEXC!</p>
 
-<a href="https://github.com/Mexcreferral/mexc-referral-code" class="signup-link" target="_blank">
-        Learn more about <strong>MEXC referral code - MEXC new user bonus in 2025</strong>
+<a href="https://github.com/CryptoReferralHub/Mexc-Referral-Hub" class="signup-link" target="_blank">
+        Learn more about <strong>MEXC Referral Code - MEXC Referral Hub</strong>
         <i class="fas fa-user-plus"></i>
     </a>
