@@ -1,7 +1,7 @@
 <h1>Registering on MEXC with Referral Code "mexc-thehub".</h1>
 <p>Here's how to register on MEXC and leverage the benefits of the referral code mexc-thehub:</p>
 <table border="1">
-    <h2>MEXC Referral Code - MXUSDT</h2>
+    <h2>MEXC Referral Code - mexc-thehub</h2>
     <tr>
         <th>Bonus Type</th>
         <th>Benefit</th>
