@@ -1,12 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>How to Create an MEXC Account - Using the Best MEXC Referral Code in 2025</title>
-</head>
-<body>
-    <h1>How to Create an MEXC Account - Using the Best MEXC Referral Code in 2025</h1>
+<h1>How to Create an MEXC Account - Using the Best MEXC Referral Code in 2025</h1>
     
     <p>MEXC is a popular cryptocurrency exchange that offers a wide range of digital assets and trading options. Creating an account is a straightforward process, and using a referral code can provide you with various benefits.</p>
 
@@ -38,5 +30,3 @@
     </ul>
 
     <p>By following these steps and using a valid referral code (<strong>mexc-thehub</strong>), you can create an MEXC account and start trading cryptocurrencies with potential benefits.</p>
-</body>
-</html>
