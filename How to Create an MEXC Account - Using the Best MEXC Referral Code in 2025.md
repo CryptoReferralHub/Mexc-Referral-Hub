@@ -1,12 +1,10 @@
 <h1>How to Create an MEXC Account - Using the Best MEXC Referral Code in 2025</h1>
-    
-    <p>MEXC is a popular cryptocurrency exchange that offers a wide range of digital assets and trading options. Creating an account is a straightforward process, and using a referral code can provide you with various benefits.</p>
-
-    <h2>Steps to Create an MEXC Account:</h2>
-    <ol>
-        <li><strong>Visit the MEXC Website:</strong> Go to the official MEXC website.</li>
-        <li><strong>Sign Up:</strong> Click on the "Sign Up" button, usually located at the top right corner of the page.</li>
-        <li><strong>Enter Your Details:</strong> You can sign up using your email address or phone number. Provide the necessary information and create a strong password.</li>
+<p>MEXC is a popular cryptocurrency exchange that offers a wide range of digital assets and trading options. Creating an account is a straightforward process, and using a referral code can provide you with various benefits.</p>
+<h2>Steps to Create an MEXC Account:</h2>
+<ol>
+<li><strong>Visit the MEXC Website:</strong> Go to the official MEXC website.</li>
+<li><strong>Sign Up:</strong> Click on the "Sign Up" button, usually located at the top right corner of the page.</li>
+<li><strong>Enter Your Details:</strong> You can sign up using your email address or phone number. Provide the necessary information and create a strong password.</li>
         <li><strong>Enter Referral Code (Optional):</strong> During the signup process, you'll see an option to enter a referral code. Enter the best MEXC referral code for 2025: <strong>mexc-thehub</strong> to receive potential benefits like discounted trading fees or bonuses.</li>
         <li><strong>Verify Your Account:</strong> MEXC will send a verification code to your email or phone number. Enter this code to verify your account.</li>
         <li><strong>Complete KYC (Know Your Customer):</strong> To fully access all features of MEXC, you'll need to complete the KYC verification process. This involves providing identification documents and proof of address.</li>
