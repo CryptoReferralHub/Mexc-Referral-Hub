@@ -25,3 +25,8 @@
 <li><strong>Join Crypto Communities:</strong> Participate in online crypto communities and forums where users often share referral codes and discuss their benefits.</li>
 </ul>
 <p>By following these steps and using a valid referral code (<strong>mexc-thehub</strong>), you can create an MEXC account and start trading cryptocurrencies with potential benefits.</p>
+<a href="https://github.com/CryptoReferralHub/Mexc-Referral-Hub" class="signup-link" target="_blank">
+        Learn more about <strong>MEXC Referral Code - MEXC Referral Hub</strong>
+        <i class="fas fa-user-plus"></i>
+    </a>
+<p>For the latest updates, visit the official <strong>MEXC website</strong> or follow their social media channels. 🚀</p>
