@@ -69,9 +69,8 @@
 <p>MEXC remains a top choice for cryptocurrency traders in 2025, offering a <strong>secure, feature-rich platform</strong> with <strong>lucrative bonuses and discounts</strong>. By using the <strong>MEXC referral code " mexc-thehub "</strong>, new users can unlock <strong>exclusive trading rewards</strong> and <strong>fee discounts</strong>. Stay updated with the latest promotions and take full advantage of the MEXC exchange to maximize your trading experience.</p>
 
 <a href="https://github.com/CryptoReferralHub/Mexc-Referral-Hub" class="signup-link" target="_blank">
-        Learn more about <strong>MEXC referral code - MEXC new user bonus in 2025</strong>
+        Learn more about <strong>MEXC Referral Code - MEXC Referral Hub</strong>
         <i class="fas fa-user-plus"></i>
     </a>
-    
 
 <p>For the latest updates, visit the official <strong>MEXC website</strong> or follow their social media channels. 🚀</p>
