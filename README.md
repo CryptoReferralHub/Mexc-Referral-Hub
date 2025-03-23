@@ -1,5 +1,28 @@
 <h1>Registering on MEXC with Referral Code "mexc-thehub".</h1>
 <p>Here's how to register on MEXC and leverage the benefits of the referral code mexc-thehub:</p>
+<table border="1">
+    <h2>MEXC Referral Code - MXUSDT</h2>
+    <tr>
+        <th>Bonus Type</th>
+        <th>Benefit</th>
+    </tr>
+    <tr>
+        <td><strong>MEXC Signup Bonus</strong></td>
+        <td>8000  USDT welcome bonus</td>
+    </tr>
+    <tr>
+        <td><strong>Trading Fee Discount</strong></td>
+        <td>100% off trading fees</td>
+    </tr>
+    <tr>
+        <td><strong>MEXC Trading Rewards</strong></td>
+        <td>Extra perks for active traders</td>
+    </tr>
+    <tr>
+        <td><strong>MEXC Affiliate Program</strong></td>
+        <td>Earn commissions on referrals</td>
+    </tr>
+</table>
 <h2>1. Visit the MEXC Website:</h2>
 <ul>
     <li>Go to the official MEXC website.</strong>.</li>
