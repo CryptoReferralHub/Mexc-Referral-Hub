@@ -4,20 +4,20 @@
 
 <h2>2. MEXC Referral Code & Bonuses</h2>
 <h3>2.1 What Is the MEXC Referral Code?</h3>
-<p>A MEXC referral code <strong>(MXUSDT)</strong>, also known as a MEXC discount code, affiliate code, or invitation code, allows new users to access exclusive rewards and discounts when signing up. The MEXC referral program is designed to benefit both new users and referrers by offering bonuses, trading discounts, and cashback rewards.</p>
+<p>A MEXC referral code <strong>" mexc-thehub "</strong>, also known as a MEXC discount code, affiliate code, or invitation code, allows new users to access exclusive rewards and discounts when signing up. The MEXC referral program is designed to benefit both new users and referrers by offering bonuses, trading discounts, and cashback rewards.</p>
 
 <h3>2.2 How to Use the MEXC Referral Code?</h3>
 <ol>
     <li>Visit the MEXC official website or mobile app.</li>
     <li>Click on the "Sign Up" button.</li>
     <li>Enter your email or phone number and create a password.</li>
-    <li>In the referral code section, enter <strong>MXUSDT</strong> to unlock special bonuses.</li>
+    <li>In the referral code section, enter <strong>" mexc-thehub "</strong> to unlock special bonuses.</li>
     <li>Complete the signup process and verify your account.</li>
     <li>Enjoy your MEXC signup bonus and trading rewards.</li>
 </ol>
 
 <h3>2.3 What Bonuses Can I Get With the MEXC Referral Code?</h3>
-<p>When you use the MEXC promo code <strong>MXUSDT</strong>, you can receive:</p>
+<p>When you use the MEXC promo code <strong>" mexc-thehub "</strong>, you can receive:</p>
 <ul>
     <li>Up to <strong>$1,000 USDT in trading rewards</strong>.</li>
     <li>A <strong>50% discount on trading fees</strong>.</li>
@@ -36,7 +36,7 @@
 
 <h3>3.2 How to Get a Discount on MEXC Trading Fees?</h3>
 <ul>
-    <li>Use the <strong>MEXC referral code MXUSDT</strong> to get a <strong>50% discount</strong>.</li>
+    <li>Use the <strong>MEXC referral code " mexc-thehub "</strong> to get a <strong>50% discount</strong>.</li>
     <li>Join the <strong>VIP trading program</strong> to receive additional fee reductions.</li>
     <li>Participate in <strong>MEXC trading rewards and promos</strong>.</li>
 </ul>
@@ -66,9 +66,9 @@
 </ul>
 
 <h2>6. Conclusion</h2>
-<p>MEXC remains a top choice for cryptocurrency traders in 2025, offering a <strong>secure, feature-rich platform</strong> with <strong>lucrative bonuses and discounts</strong>. By using the <strong>MEXC referral code MXUSDT</strong>, new users can unlock <strong>exclusive trading rewards</strong> and <strong>fee discounts</strong>. Stay updated with the latest promotions and take full advantage of the MEXC exchange to maximize your trading experience.</p>
+<p>MEXC remains a top choice for cryptocurrency traders in 2025, offering a <strong>secure, feature-rich platform</strong> with <strong>lucrative bonuses and discounts</strong>. By using the <strong>MEXC referral code " mexc-thehub "</strong>, new users can unlock <strong>exclusive trading rewards</strong> and <strong>fee discounts</strong>. Stay updated with the latest promotions and take full advantage of the MEXC exchange to maximize your trading experience.</p>
 
-<a href="https://github.com/Mexcreferral/mexc-referral-code" class="signup-link" target="_blank">
+<a href="https://github.com/CryptoReferralHub/Mexc-Referral-Hub" class="signup-link" target="_blank">
         Learn more about <strong>MEXC referral code - MEXC new user bonus in 2025</strong>
         <i class="fas fa-user-plus"></i>
     </a>
