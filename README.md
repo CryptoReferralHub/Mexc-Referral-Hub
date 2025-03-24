@@ -66,3 +66,9 @@
     <li>Explore MEXC's tutorials and help resources for a smooth trading experience.</li>
     <li>By following these steps, you can successfully register on MEXC and potentially unlock advantages through the referral code <strong>"mexc-thehub"</strong>.</li>
 </ul>
+<a href="https://github.com/CryptoReferralHub/Mexc-Referral-Hub" class="signup-link" target="_blank">
+        Learn more about <strong>MEXC Referral Code - MEXC Referral Hub</strong>
+        <i class="fas fa-user-plus"></i>
+    </a>
+
+<p>For the latest updates, visit the official <strong>MEXC website</strong> or follow their social media channels. 🚀</p>
